@@ -10,3 +10,5 @@ Montamos o circuito utilizando o arduino uno e utilizamos a IDE do próprio ardu
 Utilizamos o node-red para realizar a conexão via MQTT com a tago, onde montamos os dashboards
 
 (os prints estão disponíveis no read-me.docx)  
+
+Link para acessar o vídeo: https://youtu.be/7AHxV0WofsM?feature=shared
